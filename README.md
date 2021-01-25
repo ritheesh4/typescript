@@ -25,5 +25,6 @@ Variable Declarations
 
 Variable Types
 --------------
-- 
+- let varialbe-name:variable-type = variable-value;
+  example: let name:string = 'Ritheesh';
 
