@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+var message = "Hello World";
+console.log(message);
+var x = 10;
+var y = 20;
+var sum;
+var title = 'Title';
+var isBeginner = true;
+var total = 0;
+var name = 'Ritheesh';
+var sentence = "My name is " + name;
+console.log(sentence);
