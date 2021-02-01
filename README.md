@@ -27,4 +27,8 @@ Variable Types
 --------------
 - let varialbe-name:variable-type = variable-value;
   example: let name:string = 'Ritheesh';
+- Tuple type: Sometimes me might have an array that contains values of mixed types. Using Tuple can contain
+  different array type values with matched indexes.
+
+  example: let person1: [string, number] = ['Ritheesh', 22]; Number of elements in the arrays are fixed. Fixed number of values with different types.
 
